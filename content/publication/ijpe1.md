@@ -19,7 +19,7 @@ authors = ["Kunal Kumar", "Tarik Aouam"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "International Journal of Production Economics"
+publication = "International Journal of Production Economics, 195, 74-95."
 publication_short = ""
 
 # Abstract and optional shortened version.
