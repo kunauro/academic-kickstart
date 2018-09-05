@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "2 Jan 2 2006"
+  date_format = "2 Jan 2006"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "15:04 PM"
 
@@ -118,7 +118,7 @@ enableGitInfo = false
   comment_count = false
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
