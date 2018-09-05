@@ -2,7 +2,7 @@
 title = "Production planning with order acceptance and demand uncertainty"
 
 # Date first published.
-date = "2017-12-01"
+date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kunal Kumar", "Tarik Aouam"]
