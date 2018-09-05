@@ -10,26 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Supply Chain Management",
+    "Operations Management",
+    "Humanitarian Logistics Maanagement"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Business Economics"
+  institution = "Ghent University, Belgium"
+  year = 2019 (Expected)
+
+[[education.courses]]
+  course = "MSc in Management and Optimization of Supply Chains and Transport"
+  institution = "Ecole des Mines de Nantes, France"
+  year = 2015
+
+[[education.courses]]
+  course = "B.Eng. in Production Engineering"
+  institution = "PEC University of Technology, India"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
