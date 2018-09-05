@@ -19,7 +19,7 @@ authors = ["Kunal Kumar", "Tarik Aouam"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Computers &amp; Operations Research"
+publication = "Computers &amp; Operations Research, 91, 145-159"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "link", url = "https://www.sciencedirect.com/science/article/pii/S0305054817302903"}]
+ url_custom = [{name = "DOI", url = "http://dx.doi.org/10.1016/j.cor.2017.11.013"}]
 
 # Does the content use math formatting?
 math = true
