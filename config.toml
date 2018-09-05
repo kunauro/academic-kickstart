@@ -297,12 +297,12 @@ enableGitInfo = false
 #    weight = 7
 
 # Search.
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+ # engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
