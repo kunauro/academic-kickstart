@@ -2,7 +2,7 @@
 title = "Integrated lot sizing and safety stock placement in a network of production facilities"
 
 # Date first published.
-date = "2017-10-07"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kunal Kumar", "Tarik Aouam"]
