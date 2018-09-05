@@ -36,5 +36,3 @@ weight = 5
 # Biography
 
 I am a PhD researcher in Operations and Supply Chain Management at Ghent University, Belgium. My research is broadly centred around in management and optimization of production and inventory systems. Along with my PhD advisor Prof. Tarik Aouam, I am investigating the integration of tactical production decisions such as planned lead times, batch sizing and production smoothing policies with strategic safety stocks in supply chains. The research focuses on modeling mathematical models that account for production dynamics and congestion effects, and on developing methodologies to optimize these models. Insights from the numerical analysis bolster the understanding of the key trade-offs and factors influencing them.
-
-Prior to working at UGent, I obtained a masters degree in Management and Optimisation of Supply Chains and Transport from École des Mines de Nantes, France. I also hold a bachelors degree in Production Engineering from PEC University of Technology, India.
