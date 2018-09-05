@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0305054817302903"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "link", url = "https://www.sciencedirect.com/science/article/pii/S0305054817302903"}]
 
 # Does the content use math formatting?
 math = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption 😄"
 
 +++
