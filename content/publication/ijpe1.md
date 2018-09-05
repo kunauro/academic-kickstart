@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0925527317303092"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "link", url = "https://www.sciencedirect.com/science/article/pii/S0925527317303092"}]
+ url_custom = [{name = "DOI", url = "https://doi.org/10.1016/j.ijpe.2017.10.006"}]
 
 # Does the content use math formatting?
 math = true
