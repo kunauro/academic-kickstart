@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Business Economics"
   institution = "Ghent University, Belgium"
-  year = 2019 (Expected)
+  year = 2019
 
 [[education.courses]]
   course = "MSc in Management and Optimization of Supply Chains and Transport"
