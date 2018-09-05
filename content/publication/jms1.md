@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://hal.archives-ouvertes.fr/hal-01232434/document"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
