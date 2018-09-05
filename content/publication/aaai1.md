@@ -2,7 +2,7 @@
 title = "Optimizing Infrastructure Enhancements for Evacuation Planning"
 
 # Date first published.
-date = "2018-09-05"
+date = "2016-11-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kunal Kumar", "Julia Romanski", "Pascal Van Hentenryck"]
@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Manufacturing Systems, 49, 1-15"
-publication_short = "In "Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16)""
+publication_short = "In *Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16)*, pp. 3864-3870. AAAI Press, 2016."
 
 # Abstract and optional shortened version.
 abstract = "With rapid population growth and urbanization, emergency services in various cities around the world worry that the current transportation infrastructure is no longer adequate for large-scale evacuations. This paper considers how to mitigate this issue through infrastructure upgrades, such as the additions of lanes to road segments and the raising of bridges and roads. The paper proposes a MIP model for deciding the most effective infrastructure upgrades as well as a Benders decomposition approach where the master problem jointly plans the upgrades and evacuation routes and the subproblem schedules the evacuation itself. Experimental results demonstrate the practicability of the approach on a real case study, filling a significant need for emergencies services."
