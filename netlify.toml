@@ -1,5 +1,5 @@
 [build]
-  publish = "private"
+  publish = "public"
   command = "hugo"
 
 [context.production.environment]
