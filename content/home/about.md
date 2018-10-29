@@ -11,8 +11,9 @@ weight = 1
 [interests]
   interests = [
     "Supply Chain Management",
-    "Operations Management",
-    "Humanitarian Logistics Maanagement"
+    "Inventory optimization",
+    "Production planning",
+    "Humanitarian operations planning"
   ]
 
 # List your qualifications (such as academic degrees).
