@@ -39,5 +39,3 @@ weight = 1
 Welcome! I am a production engineer with a strong interest in supply chain and operations management. With a keen eye for detail, I specialize in quantitative modeling, analysis and optimization of complex real-world  systems.
 
 Currently, as a PhD researcher at Ghent University, I am developing mathematical models, algorithms and insights that can help manufacturing firms to reduce supply chain costs and improve service levels.  You may read about my research in detail here and find a summary of published articles here.
-
-I am looking for opportunities to start my career as an operations management consultant/analyst from October 2019.
