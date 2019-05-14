@@ -18,12 +18,12 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Business Economics"
+  course = "PhD in Operations Research"
   institution = "Ghent University, Belgium"
   year = 2019
 
 [[education.courses]]
-  course = "MSc in Management and Optimization of Supply Chains and Transport"
+  course = "MSc in Industrial Engineering"
   institution = "Ecole des Mines de Nantes, France"
   year = 2015
 
