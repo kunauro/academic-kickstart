@@ -34,8 +34,5 @@ weight = 1
  
 +++
 
-# Biography
-
-Welcome! I am a production engineer with a strong interest in supply chain and operations management. With a keen eye for detail, I specialize in quantitative modeling, analysis and optimization of complex real-world  systems.
-
-Currently, as a PhD researcher at Ghent University, I am developing mathematical models, algorithms and insights that can help manufacturing firms to reduce supply chain costs and improve service levels.  You may read about my research in detail here and find a summary of published articles here.
+# About Kunal
+Kunal is an experienced Operations Research scientist, with a PhD in supply chain and inventory optimization. He is currently working with KLM Royal Dutch Airlines and their partnership with BCG to build AI and data-driven tools for aviation planning problems.
